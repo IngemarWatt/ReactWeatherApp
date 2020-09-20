@@ -16,6 +16,6 @@ The second API used in this app is Flickr's [flickr.photos.search API](https://w
 * Launch the project by entering `npm start` in the terminal
 
 
-# Testing images
-
-<img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Amsterdam.png" width="480">
+# Screenshots
+This is the home page. The user is prompted to enter the name of their chosen city.
+<img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/HomePage.png" width="640">
