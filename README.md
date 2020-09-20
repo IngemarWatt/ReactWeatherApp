@@ -7,3 +7,8 @@
 * Install bootstrap by entering `npm i -s bootstrap` in the terminal
 * Install axios by entering `npm install axios` in the terminal
 * Launch the project by entering `npm start` in the terminal
+
+
+# Testing images
+
+![amsterdam](https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Amsterdam.png)
