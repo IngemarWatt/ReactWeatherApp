@@ -11,4 +11,4 @@
 
 # Testing images
 
-![amsterdam](https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Amsterdam.png)
+<img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Amsterdam.png" width="480">
