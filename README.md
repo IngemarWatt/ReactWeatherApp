@@ -1,4 +1,4 @@
-# React weather app made for a YoungShand internship application
+# React weather app made for an internship application
 
 ## Weather App
 This Web App fetches the current weather data for a city specified by the user. A background image of the corresponding city is also fetched and placed behind the weather data.
