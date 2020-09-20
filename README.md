@@ -17,14 +17,14 @@ The second API used in this app is Flickr's [flickr.photos.search API](https://w
 
 
 ## Screenshots
-This is the home page. The user is prompted to enter the name of their chosen city.
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/HomePage.png" width="640">
+This is the home page. The user is prompted to enter the name of their chosen city.
 
-After the user enters 'Auckland' and presses enter, the current weather information for Auckland is shown along with a background of Auckland City.
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Auckland.png" width="640">
+After the user enters 'Auckland' and presses enter, the current weather information for Auckland is shown along with a background of Auckland City.
 
-Entering 'Amsterdam' and pressing enter will update the weather information to that of Amsterdam, and the background image will switch to a photo of Amsterdam with a fade transition.
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Amsterdam.png" width="640">
+Entering 'Amsterdam' and pressing enter will update the weather information to that of Amsterdam, and the background image will switch to a photo of Amsterdam with a fade transition.
 
-If a city corresponding to the user's input cannot be found, an error message is shown and the background image is removed.
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/invalidInput.png" width="640">
+If a city corresponding to the user's input cannot be found, an error message is shown and the background image is removed.
