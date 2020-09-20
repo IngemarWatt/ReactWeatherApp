@@ -1,7 +1,7 @@
 # React weather app made for a YoungShand internship application
 
 ## Weather App
-This Web App fetches the current weather data for a specified city. A background image of the corresponding city is also fetched and placed behind the weather data.
+This Web App fetches the current weather data for a city specified by the user. A background image of the corresponding city is also fetched and placed behind the weather data.
 
 The app makes calls to two separate REST APIs, the first of which is the OpenWeatherMaps [Current Weather Data API](https://openweathermap.org/current). This is used to get the current weather information for the specified city, as well as an icon corresponding to that weather. 
 
