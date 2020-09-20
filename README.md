@@ -21,12 +21,15 @@ This is the home page. The user is prompted to enter the name of their chosen ci
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/HomePage.png" width="640">
 <br/>
 <br/>
+<br/>
 After the user enters 'Auckland' and presses enter, the current weather information for Auckland is shown over a background of Auckland City.<br/>
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Auckland.png" width="640">
 <br/>
 <br/>
+<br/>
 Entering 'Amsterdam' and pressing enter will update the weather information to that of Amsterdam, and the background image will switch to a photo of Amsterdam with a fade transition.<br/>
 <img src="https://github.com/IngemarWatt/ReactWeatherApp/blob/master/GitHubScreenshots/Amsterdam.png" width="640">
+<br/>
 <br/>
 <br/>
 If a city corresponding to the user's input cannot be found, an error message is shown and the background image is removed.<br/>
