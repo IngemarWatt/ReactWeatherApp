@@ -9,6 +9,7 @@ The second API used in this app is Flickr's [flickr.photos.search API](https://w
 
 ## Installation
 * Download or clone the repository
+* Navigate to the repository folder in terminal
 * Make sure NodeJS is installed, available [here](https://nodejs.org/en/)
 * Install node modules by entering `npm install` in the terminal
 * Install bootstrap by entering `npm i -s bootstrap` in the terminal
